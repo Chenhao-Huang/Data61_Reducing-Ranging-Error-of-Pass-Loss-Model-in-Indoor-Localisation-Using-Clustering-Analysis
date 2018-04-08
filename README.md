@@ -1,4 +1,4 @@
-# Reduce_Ranging_Error_of_Pass_Loss_Model_in_Indoor_Localisation_Using_Clustering_Analysis
+# Reduce-Ranging-Error-of-Pass-Loss-Model-in-Indoor-Localisation-Using-Clustering-Analysis
 
 This short research project is part of a large indoor localisation project at CISRO.
 
