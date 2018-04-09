@@ -8,6 +8,6 @@ Clustering.m is used to clustering K1, K2 in the pass loss model into clusters.
 
 graphDrawing.m draws the Probability Density Function (PDF) of which cluster does one transmitter and receiver pairs belongs to.
 
-If you are interested in this project, do not hesitate to contact me via email: chenhao.tony.huang@gmail.com 
+If you are interested in this project, do not hesitate to contact me via email: chenhao.huang@sydney.edu.au
 
 Thanks!
